@@ -1,6 +1,8 @@
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
+Durante a trilha do bootcamp foi proposto a resolução dos desafios abaixo. Como resultado, eu adicionei ao repositório o arquivo DesafiosDio.sql com a resolução. O código referente a cada desafio está indicado através de um comentário com o número do desafio.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
 
